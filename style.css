@@ -1,0 +1,50 @@
+#titulo {
+    text-align: center;
+}
+
+#subtitulo {
+    text-align: center;
+}
+
+
+.formularioCadastro {
+    font-family: 'Averia Serif Libre';
+    margin: auto;
+    margin-top: 25vh;
+    width: 320px;
+    height: 250px;
+}
+
+input {
+    border: 1px solid;
+}
+
+td:first-child {
+    width: 100px;
+}
+
+.error {
+    color: red;
+}
+
+.header.titles {
+    font-size: 25px;
+    text-align: center;
+}
+
+.container.bottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35px;
+}
+
+
+#email {
+    width: 600px;
+}
+
+#cep{
+    width: 100px;
+}
+
